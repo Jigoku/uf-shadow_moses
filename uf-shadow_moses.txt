@@ -1,0 +1,100 @@
+
+
+	+---------------------------------------------------------------+
+
+			S H A D O W    M O S E S
+
+			r637 (August 14th 2014)
+	
+			for Red Eclipse v1.4.1 (svn 6550 or later)
+
+	+---------------------------------------------------------------+
+		http://mappinghell.net/forum/index.php?topic=943
+	+---------------------------------------------------------------+
+
+	File List:
+	
+	mgs_local.cfg
+	mgs_server.cfg
+	README
+	maps/uf-mgs_shadow_moses.cfg
+    maps/uf-mgs_shadow_moses.txt
+	maps/uf-mgs_shadow_moses.wpt
+	maps/uf-mgs_shadow_moses.mpz
+	maps/uf-mgs_shadow_moses.png
+	
+	+---------------------------------------------------------------+
+
+	Sections completed:
+		Dock
+		Heliport
+        Canyon
+
+	Sections Started (unfinished)
+		Tank Hangar
+		Tank Hangar B1
+		Tank Hangar B2
+		
+
+	+---------------------------------------------------------------+
+
+	Weapon vars:
+
+		(0) Naked
+		(1) SOCOM
+		(2) Katana
+		(3) SPAS-12
+		(4) FAMAS
+		(5) M2A1
+		(6) Stinger
+		(7) PSG-1
+		(8) Stun G.
+		(9) Claymore
+		(10) Nikita Missile
+
+		mgs_server.cfg 
+		Use this to run a server that defaults to these settings
+
+		mgs_local.cfg 
+		Use this for changing settings without restarting server
+
+	+---------------------------------------------------------------+
+
+	Team Vars:
+
+		(alpha) Foxhound
+		(omega) Philanthropy
+		(kappa) Patriots
+		(sigma) Genome Soldiers
+
+	+---------------------------------------------------------------+
+
+
+			Credits/License
+
+	Ricky Thomson a.k.a unixfreak (almost everything so far)
+	SniperGoth >DooM<  (atmosphere particles on the heliport)
+	Greaserpirate (fine-tuned alot of weapon vars)
+
+
+	Map and contents are licensed as CC-BY-SA
+	http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB
+
+
+	+---------------------------------------------------------------+
+
+
+	You are free:
+    
+	  to copy, distribute, display, and perform the work
+	  to make derivative works
+
+	Under the following conditions:
+
+	  Attribution  You must give the original author credit.
+
+	  Share Alike  If you alter, transform, or build upon this work, you 
+			may distribute the resulting work only under a licence 
+			identical to this one. 
+
+	+---------------------------------------------------------------+
